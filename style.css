@@ -1,0 +1,25 @@
+body {
+    text-align: center;
+}
+
+.pokeball {
+    height: 3rem;
+    padding-right: 1rem;
+    margin-bottom: 6px;
+}
+
+.title {
+    font-weight: bold;
+}
+
+.cerca {
+    width: 60%;
+}
+
+.hidden {
+    display: none;
+}
+
+#immagine {
+    height: 300px;
+}
