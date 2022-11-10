@@ -1,3 +1,4 @@
+'use strict';
 function pokemonRender(pokemon) {
 	axios
 		.get('https://pokeapi.co/api/v2/pokemon/' + pokemon)
