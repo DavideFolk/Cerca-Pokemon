@@ -3,4 +3,5 @@ Live: https://davidefolk.github.io/Cerca-Pokemon/
 
 Per questo progetto ho usato Bootstrap, jQuery e Axios per API esterne 
 
-![cercaPokemon](https://user-images.githubusercontent.com/107867374/200034157-cec84bac-51f8-4acd-9567-7d284bb38813.png)
+![image](https://github.com/DavideFolk/Cerca-Pokemon/assets/107867374/cc1097bf-de23-490a-b6d1-419503c2fa9f)
+
